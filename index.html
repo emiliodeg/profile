@@ -1,10 +1,18 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>Emilio Degiovanni - Profile</title>
-  </head>
-  <body>
-    <h1>Emilio Degiovanni Profile</h1>
-    <h2>This is a little test with github pages</h2>
-  </body>
-</html>
+---
+layout: default
+---
+
+
+{% include career-profile.html %}
+
+{% unless site.data.data.sidebar.education %}
+  {% include education.html %}
+{% endunless %}
+
+{% include experiences.html %}
+
+{% include projects.html %}
+
+{% include publications.html %}
+
+{% include skills.html %}
