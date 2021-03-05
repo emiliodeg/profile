@@ -4,7 +4,9 @@
 
 sidebar:
     about: false # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: 
+      sidebar: true
+      body: true
 
     # Profile information
     name: Emilio Degiovanni
@@ -45,31 +47,26 @@ sidebar:
 career-profile:
     title: Perfil
     summary: |
-      OK
-      Con segundo parrafo
+      Mi nombre es Emilio Degiovanni y soy un desarrollador de aplicaciones y sitios web con más de 18 años de experiencia. En un principio allá por el año 2002 mientras estudiaba
+      en la universidad y por mi cuenta PHP para desarrollar sitios web, conseguí mi primer proyecto. En ese momento parecía algo imposible pero asumí el reto. Después de 2 meses de 
+      trabajo pude concluir la primer versión de un directorio de maestrías para arquitectos en todo el mundo. Si bien fue un proyecto que debía funcionar en el viejo Internet Explorer 6 
+      donde eran cientos de tablas anidadas para obtener el resultado esperado acorde al diseño aprobado por el cliente. Claramente comparado con las opciones de CSS que tenemos 
+      hoy en día, aquello era un autentico dolor de cabezas. Sin embargo aquel fue unos de los días más gratificantes de mi carrera profesional.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Ingeniería en Sistemas
+      university: Universidad Tecnológica Nacional
+      time: 2002 - 2006
+      status: Incompleto
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+        Los años que estuve aquí aprendí todo lo referente al estudio, análisis y diseño de sistemas. En su momento decidí abandonar mi carrera para seguir mi propio proyecto
+        de desarrollo de sitios y aplicaciones web, incluso abrí una agencia de diseño junto con otras 2 socias. Lamentablemente los contenidos de las materias de tecnologías
+        como programación, algoritmos, etc. estaban muy desactualizados para lo que es nuestra industria y mis intereses de su momento. _(Incompleto)_
+    - degree: Ingeniería en Sistemas
+      university: Universidad Católica de Córdoba
+      time: 2000 - 2001
+      status: Incompleto
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Estudié 2 años en esta universidad hasta que, por cuestiones de la crísis económica del 2001, tuve que cambiarme a la universidad pública. _(Incompleto)_
 experiences:
     - role: Lead Developer
       time: 2015 - Present
