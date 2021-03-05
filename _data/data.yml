@@ -8,12 +8,12 @@ sidebar:
 
     # Profile information
     name: Emilio Degiovanni
-    tagline: Desarrollador Frontend
+    tagline: Desarrollador Angular Frontend
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: &#101;&#109;&#105;&#108;&#105;&#111;&#100;&#101;&#103;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;
-    phone: &#43;&#53;&#52;&#51;&#53;&#49;&#50;&#49;&#54;&#56;&#48;&#49;&#55;
+    email: '&#101;&#109;&#105;&#108;&#105;&#111;&#100;&#101;&#103;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;'
+    phone: '&#43;&#53;&#52;&#51;&#53;&#49;&#50;&#49;&#54;&#56;&#48;&#49;&#55;'
     website: developtus.com #do not add http://
     linkedin: emiliodeg
     github: emiliodeg
@@ -43,7 +43,7 @@ sidebar:
         link:
 
 career-profile:
-    title: Mi perfil
+    title: Perfil
     summary: |
       OK
       Con segundo parrafo
@@ -109,7 +109,7 @@ experiences:
           - Bullet point
           - Bullet point
 projects:
-    title: Projects
+    title: Proyectos
     intro: >
       You can list your side projects or open source libraries in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
@@ -158,26 +158,20 @@ publications:
         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Lenguajes y Tecnologías
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Angular 9+
+        level: 95%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
+      - name: Javascript
+        level: 90%
 
       - name: HTML5 & CSS
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: PHP 7+
+        level: 80%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    
