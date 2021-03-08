@@ -28,30 +28,39 @@ sidebar:
     goodreads: 23667895-degiovanni-emilio # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: Spanish
-        level: Navite
+      - idiom: Español
+        level: Nativo
       
       - idiom: English
         level: Intermediate Advance
 
     interests:
-      - item: Swimming
+      - item: 👨‍👨‍👧‍👦 Familia y amigos
         link:
-
-      - item: Riding bike
+      - item: 🚴‍♂️Bicicleta
         link:
-
-      - item: Cooking
+      - item: 🔪 Cocinar
+        link:
+      - item: 📚 Leer
+        link:
+      - item: 🏊‍♂️ Natación _(Suspendido por Covid-19)_
+        link:
+      - item: 🍅 Horticultura
         link:
 
 career-profile:
-    title: Perfil
+    title: Mi historia
     summary: |
       Mi nombre es Emilio Degiovanni y soy un desarrollador de aplicaciones y sitios web con más de 18 años de experiencia. En un principio allá por el año 2002 mientras estudiaba
-      en la universidad y por mi cuenta PHP para desarrollar sitios web, conseguí mi primer proyecto. En ese momento parecía algo imposible pero asumí el reto. Después de 2 meses de 
-      trabajo pude concluir la primer versión de un directorio de maestrías para arquitectos en todo el mundo. Si bien fue un proyecto que debía funcionar en el viejo Internet Explorer 6 
+      en la universidad y por mi cuenta PHP para desarrollar sitios web, conseguí mi primer proyecto. En ese momento parecía algo imposible no entendía como funcionaban muchas cosas 
+      pero asumí el reto. Después de 2 meses de trabajo pude concluir la primer versión de un directorio de maestrías para arquitectos en todo el mundo. 
+      Si bien fue un proyecto que debía funcionar en el viejo Internet Explorer 6 
       donde eran cientos de tablas anidadas para obtener el resultado esperado acorde al diseño aprobado por el cliente. Claramente comparado con las opciones de CSS que tenemos 
       hoy en día, aquello era un autentico dolor de cabezas. Sin embargo aquel fue unos de los días más gratificantes de mi carrera profesional.
+      
+      _¿Esta página es un diario, un blog o qué?_ La verdad que ninguno o todos a la vez, solo intentaré contar mi historia y experiencia después de tantos años de dedicación
+      y horas codeando para ayudar a quienes quieran conocerme o entender lo que es vivir del desarrollo de aplicaciones.
+
 education:
     - degree: Ingeniería en Sistemas
       university: Universidad Tecnológica Nacional
@@ -67,93 +76,60 @@ education:
       status: Incompleto
       details: |
         Estudié 2 años en esta universidad hasta que, por cuestiones de la crísis económica del 2001, tuve que cambiarme a la universidad pública. _(Incompleto)_
+
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Senior Frontend
+      time: 2020 - Presente
+      company: Cognizant Softvision - Remoto
+      link: https://www.cognizantsoftvision.com/
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        Aquí estoy trabajando actualmente como desarrollador frontend con Angular. Ayudo con los code review de mi equipo y hemos levantado el code coverage con unit
+        test en un +25% en 2 meses. Organicé y agregamos algunas rutinas que se corren con Husky en los pre commit y pre push de git para chequear formato de archivos, compilación,
+        que todos los tests pasen, chequeo de lints, etc. para estandarizar algunas cuestiones.
+    - role: Senior Frontend
+      time: 2019 - 2020
+      company: Globant, Córdoba, Argentina
+      link: https://www.globant.com/
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        Participé de 3 proyectos como frontend de Angular. Si bien en los 2 primeros proyectos participe de forma activa no estuve hasta el final de los mismos.
+        El último proyecto relacionado con la confección de contratos fue comenzado y terminado entre 3 personas. Una experiencia única llena de retos y cientos
+        de horas para dejar un proyecto terminado y en producción. En todos los proyectos siempre participe del code review, discutiendo y estableciendo normas
+         y estándares para tener un mejor proyecto a nivel de calidad de código. ¿Lo mejor de Globant? su gente, encontré ahí compañeros de primera.
+    - role: PHP Fullstack Developer
+      time: 2002 - 2019
+      company: Freelancer
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Bueno ¿que decir que no haya dicho ya? Ha sido un largo y gratificante camino, las vueltas de la vida me llevaron a dejarlo para pasarme al sector privado.
+        
 projects:
     title: Proyectos
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    intro: | 
+      > _Ideas miles, tiempo para desarrollarlas cero._ 
+
+      La vida del freelancer muchas veces es así... intentando desarrollar un proyecto o idea propia, con los mejor de cada uno, 
+      muchas veces nos boicoteamos y terminamos sin poder llegar a un <abbr title="Producto Mínimo Viable">MVP</abbr> por la simple razón que no esta tan bien como debería estarlo.
+      
+      Al ser así de exigente conmigo mismo mis _"grandes ideas"_ nunca salieron a la luz. Probablemente esta página sea una gran catarsis para poder seguir adelante y conseguir
+      publicar alguna de ellas.
+
+      Sin embargo siempre me gusto ayudar en proyectos open source, aquí donde colaboré:
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Phalcon
+        link: https://phalcon.io
+        tagline: | 
+          Un framework para PHP distribuido como una extensión. Colaboré durante mucho tiempo siendo el traductor oficial de la documentación en español.
+          Ayude escribiendo unit tests y desarrollando algunas características menores. Por cuestiones de tiempo actualmente no estoy colaborando.
 
 publications:
-    title: Publications
+    title: Publicaciones
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      Digamos que esta página es mi primer publicación.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
+      # - title: The Art of Computer Programming
+      #   link: "#"
+      #   authors: Donald E. Knuth
+      #   conference: Addison-Wesley, 1968
+      
 skills:
     title: Lenguajes y Tecnologías
 

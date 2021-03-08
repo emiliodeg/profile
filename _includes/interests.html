@@ -3,7 +3,7 @@
 <div class="interests-container container-block">
 
   <h2 class="container-block-title">
-    Interests
+    Intereses
   </h2>
 
   <ul class="list-unstyled interests-list">
@@ -12,11 +12,11 @@
       {% if interest.link %}
       <li><a href="{{ interest.link }}">{{ interest.item }}</a></li>
       {% else %}
-      <li>{{ interest.item }}</li>
+      <li>{{ interest.item | markdownify }}</li>
       {% endif %}
 
     {% endfor %}
   </ul>
 
-</div><!--//interests-->
+</div>
 {% endif %}
