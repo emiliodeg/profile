@@ -7,6 +7,7 @@ sidebar:
     education: 
       sidebar: true
       body: true
+    download: true
 
     # Profile information
     name: Emilio Degiovanni
@@ -48,6 +49,8 @@ sidebar:
       - item: 🍅 Horticultura
         link:
 
+download: true
+
 career-profile:
     title: Mi historia
     summary: |
@@ -64,6 +67,7 @@ career-profile:
 education:
     - degree: Ingeniería en Sistemas
       university: Universidad Tecnológica Nacional
+      link: https://www.frc.utn.edu.ar
       time: 2002 - 2006
       status: Incompleto
       details: |
@@ -72,6 +76,7 @@ education:
         como programación, algoritmos, etc. estaban muy desactualizados para lo que es nuestra industria y mis intereses de su momento. _(Incompleto)_
     - degree: Ingeniería en Sistemas
       university: Universidad Católica de Córdoba
+      link: https://www.uccor.edu.ar
       time: 2000 - 2001
       status: Incompleto
       details: |

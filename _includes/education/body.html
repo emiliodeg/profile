@@ -21,7 +21,9 @@
           <div class="time">{{ graduation.time }}</div>
         </div>
 
-        <div class="university">{{ graduation.university }}</div>
+        <div class="university">
+          <a href="{{ graduation.link }}" target="_blank" ref="nofollow">{{ graduation.university }}</a>
+        </div>
       </div>
 
       {% if graduation.details %}

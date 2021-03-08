@@ -20,6 +20,12 @@ sass:
 # Build settings
 compress-site: yes
 
+plugins:
+  - jekyll-sitemap
+
+whitelist:
+  - jekyll-sitemap
+
 encoding: "utf-8"
 compress_html: # - http://jch.penibelst.de/
   clippings: all

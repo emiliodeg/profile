@@ -53,6 +53,32 @@ p {
         text-align: center;
         color: #fff;
     }
+    
+    .download-container {
+        padding: 30px;
+        background: rgba(0,0,0, 0.1);
+        color: #fff;
+
+        h2 {
+            font-size: 18px;
+            margin: 0 0 15px
+        }
+        
+        a {
+            display: block;
+            font-size: 16px;
+            margin-bottom: 10px;
+
+            &:last-child {
+                margin: 0
+            }
+            
+            .fa {
+                margin-right: 5px;
+                font-size: 18px;
+            }
+        }
+    }
     .name {
         font-size: 32px;
         font-weight: 700;
@@ -165,6 +191,7 @@ p {
         margin-top: 0;
         margin-bottom: 20px;
     }
+    
     .section {
         margin-bottom: 60px;
     }
@@ -210,6 +237,18 @@ p {
         }
         .item {
             margin-bottom: 15px;
+        }
+    }
+    .download-section {
+        h2{
+            margin: 0 0 15px;            
+        }
+
+        a {
+            font-size: 16px;
+            &:first-of-type {
+                margin-right: 15px;
+            }
         }
     }
 
