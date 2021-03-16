@@ -15,6 +15,10 @@
     <h2 class="tagline">{{ sidebar.tagline }}</h2>
     {% endif %}
 
+    {% if sidebar.seniority %}
+    <h3 class="seniority">{{ sidebar.seniority }}</h3>
+    {% endif %}
+
   </div>
 
   {% include download/sidebar.html %}

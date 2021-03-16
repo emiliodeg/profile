@@ -12,6 +12,7 @@ sidebar:
     # Profile information
     name: Emilio Degiovanni
     tagline: Desarrollador Angular Frontend
+    seniority: Senior level 3
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -56,10 +57,13 @@ download: true
 career-profile:
     title: Mi perfil
     summary: |
-      Mi nombre es Emilio José Degiovanni, tengo 39 años y soy un desarrollador frontend basado en Angular para crear de aplicaciones y sitios web. Tengo más de 18 años de experiencia,
-      la mayoría como freelancer fullstack con PHP. Hace 3 años comencé a trabajar para Globant y actualmente trabajo para Cognizant Softvision 100% remoto.
+      Mi nombre es Emilio José Degiovanni, tengo 39 años y soy desarrollador frontend basado en Angular 9+. Vivo en la ciudad de Córdoba, Argentina con mi familia.
+      Tengo más de 18 años de experiencia creando aplicaciones y sitios web. La mayoría de mis años de experiencia fueron como freelancer fullstack con PHP. 
+      Desde hace 3 años comencé a trabajar en relación de dependencia. Primero trabajé para Globant Argentina y actualmente para Cognizant Softvision 100% remoto.
 
-      Actualmente me encuentro trabajando para un proyecto llamado [Game of Pods](https://gameofpods.com). Donde me desempeño como programador Angular, hago code reviews, 
+      En Cognizant Softvisino actualmente estoy asignado a un proyecto llamado [Game of Pods](https://gameofpods.com). Aquí me desempeño como programador Angular, ayudo con los code reviews 
+      del equipo, impulsé algunos estándares en el proyecto como los _git hooks_ utilizando Husky para por ejemplo chequear el formato con Prettier y la valides del TSLint en los 
+      _pre-commit_ y pasar todos los tests en _pre-push_. Ajuste las opciones del compilador para ser más rigurosos con algunos aspectos del código.
 
 history: 
   title: Mi historia
