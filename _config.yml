@@ -1,10 +1,10 @@
 #Update all the sections by editing the data.yml file inside _data folder.
 
 # Site Settings
-title: Emilio Degiovanni Desarrollador Angular
+title: Emilio Degiovanni - Desarrollador Frontend Angular
 url: 'https://developtus.com'
 baseurl: '' #change it according to your repository name
-description: Desarrollador Frontend especializado en Angular 9+
+description: Desarrollador Frontend especializado en Angular 9+ con 18+ años de experiencia. Actualmente trabajo para Cognizant Softvision remoto
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
 theme_skin: ceramic # blue turquoise green berry orange ceramic
 chrome_mobile_color: #use hex colors (ex:#1976d2) or leave empty if you don't want a color for chrome mobile searchbar

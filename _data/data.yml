@@ -38,9 +38,11 @@ sidebar:
     interests:
       - item: 👨‍👨‍👧‍👦 Familia y amigos
         link:
-      - item: 🚴‍♂️Bicicleta
+      - item: 🚴‍♂️ Bicicleta
         link:
       - item: 🔪 Cocinar
+        link:
+      - item: 🧉 Mate y Café ☕
         link:
       - item: 📚 Leer
         link:
@@ -52,37 +54,45 @@ sidebar:
 download: true
 
 career-profile:
-    title: Mi historia
+    title: Mi perfil
     summary: |
-      Mi nombre es Emilio Degiovanni y soy un desarrollador de aplicaciones y sitios web con más de 18 años de experiencia. En un principio allá por el año 2002 mientras estudiaba
-      en la universidad y por mi cuenta PHP para desarrollar sitios web, conseguí mi primer proyecto. En ese momento parecía algo imposible no entendía como funcionaban muchas cosas 
-      pero asumí el reto. Después de 2 meses de trabajo pude concluir la primer versión de un directorio de maestrías para arquitectos en todo el mundo. 
-      Si bien fue un proyecto que debía funcionar en el viejo Internet Explorer 6 donde eran cientos de tablas anidadas para obtener el resultado esperado acorde al diseño aprobado 
-      por el cliente. Claramente comparado con las opciones de CSS que tenemos hoy en día, aquello era un autentico dolor de cabezas. Sin embargo aquel fue unos de los días más 
-      gratificantes de mi carrera profesional.
-      
-      _¿Esta página es un diario, un blog o qué?_ La verdad que ninguno o todos a la vez, solo intentaré contar mi historia y experiencia después de tantos años de dedicación
-      y horas codeando para ayudar a quienes quieran conocerme o entender lo que es vivir del desarrollo de aplicaciones.
+      Mi nombre es Emilio José Degiovanni, tengo 39 años y soy un desarrollador frontend basado en Angular para crear de aplicaciones y sitios web. Tengo más de 18 años de experiencia,
+      la mayoría como freelancer fullstack con PHP. Hace 3 años comencé a trabajar para Globant y actualmente trabajo para Cognizant Softvision 100% remoto.
 
-      Mis primeros años fueron muy interesantes desde mi punto de vista actual. Consideren que en aquellos primeros años las conexiones a internet eran, al menos en mi caso,
-      por dial up a 56kbps. Por supuesto, que las páginas webs no eran tan pesadas como lo son hoy, solo pesaba un par de cientos de KBs. Pero era tan caro y la conexión se cortaba
-      tantas veces que navegar 1 o 2hs era todo un logro. Soy oriundo de un pequeño pueblo llamado Villa del Totoral el cual esta a unos 80km al norte de la provincia 
-      de Córdoba en Argentina. En aquellos primeros años, con tan solo 15 años me interesé en las computadoras, para mi era todo nuevo, nunca había estado siquiera sentado 
-      en frente de una. Todo lo que sabía de computadoras eran mis propias ideas o lo que había visto ocasionalmente en la televisión pública. A tal punto que yo pensaba que 
-      a las computadoras se les hablaba y estas respondían con la respuesta esperada. Nada más alejado de la realidad para el año 1996. Comencé a averiguar y descubrí que 
-      había un pequeño instituto en el living del domicilio de un apasionado sin limites. Quien termino siendo mi profesor y padre de una amiga de toda la vida. Todavía puedo
-      recordar el día que llego tarde a dar su clase de informática porque traía una copia original de Windows 95. Ese día no aprendimos otra cosa que a ver como se instalaba Windows.
-      Tarea un tanto aburrida y monótona pero en ese momento lo único que queríamos era que terminara y verlo en acción.
+      Actualmente me encuentro trabajando para un proyecto llamado [Game of Pods](https://gameofpods.com). Donde me desempeño como programador Angular, hago code reviews, 
 
-      La primera vez que tuve la posibilidad de sentarme frente a un monitor CRT monocromo marrón o verde, dependía cuan temprano llegaras a la clase. Blanco y negro había solo uno 
-      y era el más solicitado. La sensación fue única y la desilusión inmensa cuando me dí cuenta que a la computadora no le preguntabas nada, que no eran inteligentes, ni te hablaban;
-      lo mejor que podían hacer aquellas viejas XT eran algunos pitidos básicos con un pequeño parlante. Claramente no era mi computadora idealizada. Sin embargo, el tiempo 
-      y el esfuerzo de miles de ingenieros lograron que la computadora entienda y responda como el nuevo modelo _GTP-3_ tal cual yo había supuesto demasiados años antes.
+history: 
+  title: Mi historia
+  summary: | 
+    Voy a intentar plasmar mi historia para quienes no me conocen, pueda entender lo que se transita en este estilo de vida profesional. En un principio allá por el año 2002 mientras estudiaba
+    en la universidad y por mi cuenta PHP para desarrollar sitios web, conseguí mi primer proyecto. En ese momento parecía algo imposible no entendía como funcionaban muchas cosas 
+    pero asumí el reto. Después de 2 meses de trabajo pude concluir la primer versión de un directorio de maestrías para arquitectos en todo el mundo. 
+    Si bien fue un proyecto que debía funcionar en el viejo Internet Explorer 6 donde eran cientos de tablas anidadas para obtener el resultado esperado acorde al diseño aprobado 
+    por el cliente. Claramente comparado con las opciones de CSS que tenemos hoy en día, aquello era un autentico dolor de cabezas. Sin embargo aquel fue unos de los días más 
+    gratificantes de mi carrera profesional.
+    
+    _¿Esta página es un diario, un blog o qué?_ La verdad que ninguno o todos a la vez, solo intentaré contar mi historia y experiencia después de tantos años de dedicación
+    y horas codeando para ayudar a quienes quieran conocerme o entender lo que es vivir del desarrollo de aplicaciones.
 
-      Comencé entendiendo como esta todo organizado, como los viejos armarios/ficheros de oficina, con carpetas y archivos. Así y aprendiendo un puñado de comandos comencé con _MS-DOS_.
-      Después siguió _Windows 3.11_. Pero acá se complicaba un poco más porque había solo 2 computadoras, en aquel improvisado instituto donde todo era nuevo y maravilloso, algunas 
-      veces tocaba ver como otro manejaba la computadora. Al mismo tiempo en la secundaria también teníamos una hora de computación a la semana, nunca olvidaba mi disquete de 
-      3½ que llevaba en el bolsillo de la camisa. Instalado dentro algún pequeño juego. El que más recuerdo un ajedrez que las figuras eran animadas.
+    Mis primeros años fueron muy interesantes desde mi punto de vista actual. Consideren que en aquellos primeros años las conexiones a internet eran, al menos en mi caso,
+    por dial up a 56kbps. Por supuesto, que las páginas webs no eran tan pesadas como lo son hoy, solo pesaba un par de cientos de KBs. Pero era tan caro y la conexión se cortaba
+    tantas veces que navegar 1 o 2hs era todo un logro. Soy oriundo de un pequeño pueblo llamado Villa del Totoral el cual esta a unos 80km al norte de la provincia 
+    de Córdoba en Argentina. En aquellos primeros años, con tan solo 15 años me interesé en las computadoras, para mi era todo nuevo, nunca había estado siquiera sentado 
+    en frente de una. Todo lo que sabía de computadoras eran mis propias ideas o lo que había visto ocasionalmente en la televisión pública. A tal punto que yo pensaba que 
+    a las computadoras se les hablaba y estas respondían con la respuesta esperada. Nada más alejado de la realidad para el año 1996. Comencé a averiguar y descubrí que 
+    había un pequeño instituto en el living del domicilio de un apasionado sin limites. Quien termino siendo mi profesor y padre de una amiga de toda la vida. Todavía puedo
+    recordar el día que llego tarde a dar su clase de informática porque traía una copia original de Windows 95. Ese día no aprendimos otra cosa que a ver como se instalaba Windows.
+    Tarea un tanto aburrida y monótona pero en ese momento lo único que queríamos era que terminara y verlo en acción.
+
+    La primera vez que tuve la posibilidad de sentarme frente a un monitor CRT monocromo marrón o verde, dependía cuan temprano llegaras a la clase. Blanco y negro había solo uno 
+    y era el más solicitado. La sensación fue única y la desilusión inmensa cuando me dí cuenta que a la computadora no le preguntabas nada, que no eran inteligentes, ni te hablaban;
+    lo mejor que podían hacer aquellas viejas XT eran algunos pitidos básicos con un pequeño parlante. Claramente no era mi computadora idealizada. Sin embargo, el tiempo 
+    y el esfuerzo de miles de ingenieros lograron que la computadora entienda y responda como el nuevo modelo _GTP-3_ tal cual yo había supuesto demasiados años antes.
+
+    Comencé entendiendo como esta todo organizado, como los viejos armarios/ficheros de oficina, con carpetas y archivos. Así y aprendiendo un puñado de comandos comencé con _MS-DOS_.
+    Después siguió _Windows 3.11_. Pero acá se complicaba un poco más porque había solo 2 computadoras, en aquel improvisado instituto donde todo era nuevo y maravilloso, algunas 
+    veces tocaba ver como otro manejaba la computadora. Al mismo tiempo en la secundaria también teníamos una hora de computación a la semana, nunca olvidaba mi disquete de 
+    3½ que llevaba en el bolsillo de la camisa. Instalado dentro algún pequeño juego. El que más recuerdo un ajedrez que las figuras eran animadas.
 
 education:
     - degree: Ingeniería en Sistemas
@@ -129,7 +139,7 @@ experiences:
 projects:
     title: Proyectos
     intro: | 
-      > _Ideas miles, tiempo para desarrollarlas cero._ 
+      > _¿Ideas? miles, ¿tiempo para desarrollarlas? cero._ 
 
       La vida del freelancer muchas veces es así... intentando desarrollar un proyecto o idea propia, con los mejor de cada uno, 
       muchas veces nos boicoteamos y terminamos sin poder llegar a un <abbr title="Producto Mínimo Viable">MVP</abbr> por la simple razón que no esta tan bien como debería estarlo.
