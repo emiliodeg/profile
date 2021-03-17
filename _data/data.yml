@@ -3,187 +3,244 @@
 #
 
 sidebar:
-    about: false # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: 
-      sidebar: true
-      body: true
-    download: true
+  about: false # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  education:
+    sidebar: true
+    body: true
+  download: true
 
-    # Profile information
-    name: Emilio Degiovanni
-    tagline: Desarrollador Angular Frontend
-    seniority: Senior level 3
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  # Profile information
+  name: Emilio Degiovanni
+  tagline: Desarrollador Angular Frontend
+  seniority: Senior level 3
+  avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
-    # Sidebar links
-    email: '&#101;&#109;&#105;&#108;&#105;&#111;&#100;&#101;&#103;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;'
-    phone: '&#43;&#53;&#52;&#51;&#53;&#49;&#50;&#49;&#54;&#56;&#48;&#49;&#55;'
-    website: developtus.com #do not add http://
-    linkedin: emiliodeg
-    github: emiliodeg
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@emiliodeg'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: 23667895-degiovanni-emilio # Number-Username, e.g. 123456-alandoe
+  # Sidebar links
+  email: "&#101;&#109;&#105;&#108;&#105;&#111;&#100;&#101;&#103;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;"
+  phone: "&#43;&#53;&#52;&#51;&#53;&#49;&#50;&#49;&#54;&#56;&#48;&#49;&#55;"
+  website: developtus.com #do not add http://
+  linkedin: emiliodeg
+  github: emiliodeg
+  telegram: # add your nickname without '@' sign
+  gitlab:
+  bitbucket:
+  twitter: "@emiliodeg"
+  stack-overflow: # Number/Username, e.g. 123456/alandoe
+  codewars:
+  goodreads: 23667895-degiovanni-emilio # Number-Username, e.g. 123456-alandoe
 
-    languages:
-      - idiom: Español
-        level: Nativo
-      
-      - idiom: English
-        level: Intermediate Advance
+  languages:
+    - idiom: Español
+      level: Nativo
 
-    interests:
-      - item: 👨‍👨‍👧‍👦 Familia y amigos
-        link:
-      - item: 🚴‍♂️ Bicicleta
-        link:
-      - item: 🔪 Cocinar
-        link:
-      - item: 🧉 Mate y Café ☕
-        link:
-      - item: 📚 Leer
-        link:
-      - item: 🏊‍♂️ Natación _(Suspendido por Covid-19)_
-        link:
-      - item: 🍅 Horticultura
-        link:
+    - idiom: English
+      level: Intermediate Advance
+
+  interests:
+    - item: 👨‍👨‍👧‍👦 Familia y amigos
+      link:
+    - item: 🚴‍♂️ Bicicleta
+      link:
+    - item: 🔪 Cocinar
+      link:
+    - item: 🧉 Mate y Café ☕
+      link:
+    - item: 📚 Leer
+      link:
+    - item: 🏊‍♂️ Natación _(Suspendido por Covid-19)_
+      link:
+    - item: 🍅 Horticultura
+      link:
 
 download: true
 
 career-profile:
-    title: Mi perfil
-    summary: |
-      Mi nombre es Emilio José Degiovanni, tengo 39 años y soy desarrollador frontend basado en Angular 9+. Vivo en la ciudad de Córdoba, Argentina con mi familia.
-      Tengo más de 18 años de experiencia creando aplicaciones y sitios web. La mayoría de mis años de experiencia fueron como freelancer fullstack con PHP. 
-      Desde hace 3 años comencé a trabajar en relación de dependencia. Primero trabajé para Globant Argentina y actualmente para Cognizant Softvision 100% remoto.
+  title: Mi perfil
+  summary: |
+    Mi nombre es Emilio José Degiovanni, tengo 39 años y soy desarrollador frontend basado en Angular 9+. Vivo en la ciudad de Córdoba, Argentina con mi familia.
+    Tengo más de 18 años de experiencia creando aplicaciones y sitios web. La mayoría de mis años de experiencia fueron como freelancer fullstack con PHP. 
+    Hace 3 años comencé a trabajar en relación de dependencia. Primero trabajé para Globant Argentina y actualmente para Cognizant Softvision 100% remoto.
 
-      En Cognizant Softvisino actualmente estoy asignado a un proyecto llamado [Game of Pods](https://gameofpods.com). Aquí me desempeño como programador Angular, ayudo con los code reviews 
-      del equipo, impulsé algunos estándares en el proyecto como los _git hooks_ utilizando Husky para por ejemplo chequear el formato con Prettier y la valides del TSLint en los 
-      _pre-commit_ y pasar todos los tests en _pre-push_. Ajuste las opciones del compilador para ser más rigurosos con algunos aspectos del código.
+    En Cognizant Softvision actualmente estoy asignado a un proyecto llamado [Game of Pods](https://gameofpods.com). Aquí me desempeño como programador Angular, ayudo con los code reviews 
+    del equipo, impulsé algunos estándares en el proyecto como los _git hooks_ utilizando Husky para por ejemplo chequear el formato con Prettier y la valides del TSLint en los 
+    _pre-commit_ y pasar todos los tests en _pre-push_. Ajusté las opciones del compilador para ser más rigurosos con algunos aspectos del código y siempre estoy intentando
+    encontrar mejores soluciones y colaborando con el equipo.
 
-history: 
+history:
   title: Mi historia
-  summary: | 
-    Voy a intentar plasmar mi historia para quienes no me conocen, pueda entender lo que se transita en este estilo de vida profesional. En un principio allá por el año 2002 mientras estudiaba
-    en la universidad y por mi cuenta PHP para desarrollar sitios web, conseguí mi primer proyecto. En ese momento parecía algo imposible no entendía como funcionaban muchas cosas 
-    pero asumí el reto. Después de 2 meses de trabajo pude concluir la primer versión de un directorio de maestrías para arquitectos en todo el mundo. 
-    Si bien fue un proyecto que debía funcionar en el viejo Internet Explorer 6 donde eran cientos de tablas anidadas para obtener el resultado esperado acorde al diseño aprobado 
-    por el cliente. Claramente comparado con las opciones de CSS que tenemos hoy en día, aquello era un autentico dolor de cabezas. Sin embargo aquel fue unos de los días más 
-    gratificantes de mi carrera profesional.
-    
-    _¿Esta página es un diario, un blog o qué?_ La verdad que ninguno o todos a la vez, solo intentaré contar mi historia y experiencia después de tantos años de dedicación
-    y horas codeando para ayudar a quienes quieran conocerme o entender lo que es vivir del desarrollo de aplicaciones.
+  summary: |
+    Voy a intentar plasmar mi historia en palabras para quienes no me conocen, o para quienes quieran saber como se vive como desarrollador, programador, ingeniero en sistemas, etc. 
+    en un mundo muy competitivo pero afortunadamente somos unos de los perfiles más necesarios en el mercado laborar actual.
+    En lo consecutivo explicaré como fueron mis primeros años, formación en la universidad y de forma autodidacta y así, espero, puedan puedan entender lo que se transita 
+    en este estilo de vida profesional. 
+
+    #### Primeros años y la inocencia de un mundo desconocido
 
     Mis primeros años fueron muy interesantes desde mi punto de vista actual. Consideren que en aquellos primeros años las conexiones a internet eran, al menos en mi caso,
-    por dial up a 56kbps. Por supuesto, que las páginas webs no eran tan pesadas como lo son hoy, solo pesaba un par de cientos de KBs. Pero era tan caro y la conexión se cortaba
-    tantas veces que navegar 1 o 2hs era todo un logro. Soy oriundo de un pequeño pueblo llamado Villa del Totoral el cual esta a unos 80km al norte de la provincia 
-    de Córdoba en Argentina. En aquellos primeros años, con tan solo 15 años me interesé en las computadoras, para mi era todo nuevo, nunca había estado siquiera sentado 
-    en frente de una. Todo lo que sabía de computadoras eran mis propias ideas o lo que había visto ocasionalmente en la televisión pública. A tal punto que yo pensaba que 
-    a las computadoras se les hablaba y estas respondían con la respuesta esperada. Nada más alejado de la realidad para el año 1996. Comencé a averiguar y descubrí que 
-    había un pequeño instituto en el living del domicilio de un apasionado sin limites. Quien termino siendo mi profesor y padre de una amiga de toda la vida. Todavía puedo
-    recordar el día que llego tarde a dar su clase de informática porque traía una copia original de Windows 95. Ese día no aprendimos otra cosa que a ver como se instalaba Windows.
-    Tarea un tanto aburrida y monótona pero en ese momento lo único que queríamos era que terminara y verlo en acción.
+    por dial up a 56kbps, conectándonos a la ciudad vecina. Por supuesto, que las páginas webs no eran tan pesadas como lo son hoy, solo pesaba un par de KBs. 
+    Pero era tan caro y el servicio tan malo que navegar 1 o 2hs era todo un logro. Yo soy oriundo de un pequeño pueblo llamado Villa del Totoral el cual esta a unos 80km 
+    al norte de la provincia de Córdoba en Argentina. En aquellos primeros años, con tan solo 15 años me interesé en las computadoras. 
+    Para mi era todo nuevo, nunca había estado siquiera sentado en frente de una. Todo lo que sabía de computadoras eran mis propias ideas o lo que había visto, 
+    ocasionalmente, por televisión pública. A tal punto que yo pensaba que las computadoras eran inteligentes y que hablaban. Nada más alejado de la realidad para el año 1996. 
+    
+    Aquel año comencé a averiguar y descubrí que había un pequeño instituto de computación en el living del domicilio de un apasionado sin limites. 
+    Quien termino siendo mi profesor y mentor Miguel Mattalia y padre de una amiga de toda la vida. Recuerdo el día que llego tarde a dar su clase de informática porque traía 
+    una copia original de _Windows 95_. Ese día no aprendimos otra cosa que a ver como se instalaba Windows. Tarea un tanto aburrida y monótona. Ver el progreso del `format c:`
+    y luego el de la instalación de Windows no es algo muy emocionante, pero en ese momento, lo único que queríamos era ¡verlo en acción!.
+    
+    Pero volviendo un poquito más atrás, la primera vez que tuve la posibilidad de sentarme frente a un monitor CRT monocromo marrón o verde, dependía de cuan 
+    temprano llegaras a la clase. El mejor de todos, era el blanco y negro pero había solo uno y era el más solicitado. La sensación fue única y la desilusión inmensa cuando
+    me entregaron los primeros apuntes impresos y entendí que a las computadoras no le hablabas, que no eran inteligentes, ni nada de toda esa ciencia ficción aprendida o imaginada.
+    Lo mejor que podían hacer aquellas viejas XT eran algunos pitidos básicos con un pequeño parlante conectado a la placa madre.
+    Claramente no era mi computadora idealizada. 
 
-    La primera vez que tuve la posibilidad de sentarme frente a un monitor CRT monocromo marrón o verde, dependía cuan temprano llegaras a la clase. Blanco y negro había solo uno 
-    y era el más solicitado. La sensación fue única y la desilusión inmensa cuando me dí cuenta que a la computadora no le preguntabas nada, que no eran inteligentes, ni te hablaban;
-    lo mejor que podían hacer aquellas viejas XT eran algunos pitidos básicos con un pequeño parlante. Claramente no era mi computadora idealizada. Sin embargo, el tiempo 
-    y el esfuerzo de miles de ingenieros lograron que la computadora entienda y responda como el nuevo modelo _GTP-3_ tal cual yo había supuesto demasiados años antes.
+    Comencé entendiendo como esta organizado este mundo informático, los viejos armarios/ficheros de oficina, con carpetas y archivos son, claramente, 
+    el mejor ejemplo en la vida real para entenderlo. Aprendí los comandos de _MS-DOS_ y todo comenzó a cobrar sentido.
+    Después siguió _Windows 3.11_, pasar de los comandos a usar el _mouse_ era hermoso. El tiempo te llevará luego a las consolas de comandos para un mayor control de lo que estas haciendo. 
+    Con aquella versión de Windows se complicaba un poco más porque había solo 2 computadoras que lo tenían instalado, algunas veces me tocaba ver como otro manejaba la computadora. 
+    Lo mejor era llegar temprano y no perder tú lugar. Al mismo tiempo, en la secundaria también teníamos una hora de computación a la semana, nunca olvidaba mi disquete de 
+    3½ que llevaba en el bolsillo de la camisa. Instalado dentro, algún pequeño juego. El que más recuerdo un ajedrez que las figuras eran animadas.
 
-    Comencé entendiendo como esta todo organizado, como los viejos armarios/ficheros de oficina, con carpetas y archivos. Así y aprendiendo un puñado de comandos comencé con _MS-DOS_.
-    Después siguió _Windows 3.11_. Pero acá se complicaba un poco más porque había solo 2 computadoras, en aquel improvisado instituto donde todo era nuevo y maravilloso, algunas 
-    veces tocaba ver como otro manejaba la computadora. Al mismo tiempo en la secundaria también teníamos una hora de computación a la semana, nunca olvidaba mi disquete de 
-    3½ que llevaba en el bolsillo de la camisa. Instalado dentro algún pequeño juego. El que más recuerdo un ajedrez que las figuras eran animadas.
+    Era amante y no me perdía ningún número de la revista _PCUsers_, la cual era la puerta a un mundo enorme que no entendía. Leía todas las revistas, entendiera o no lo que estaba leyendo.
+    Incluso hice mi primero compra en internet para comprar los números que no tenía. En el sitio web de la empresa, solo tenían un listado de los números disponibles.
+    Elegí todos los faltantes, 
+
+    Todo esto era alucinante para mi pero no entendía como se hacían las cosas, necesitaba aprender a programar. Sino las computadoras quedaban siendo solamente una maquina 
+    que respondía solo a preguntas pre establecidas. Sin embargo, el tiempo y el esfuerzo de miles de ingenieros y científicos dieron sus resultados y lograron que las computadoras
+    entiendan y respondan. Quedando el [test de Turing](https://es.wikipedia.org/wiki/Prueba_de_Turing) en serios aprietos. 
+    Sin ir más lejos el nuevo modelo _GTP-3_ es en pocas palabras lo que había imaginado demasiados años antes.
+
+    #### La universidad y mi formación autodidacta
+
+    En el año 2000, me mudé a Córdoba capital donde comencé [mis estudios universitarios](#educacion) en la UCC. Elegí la carrera de ingeniería en sistemas la cual era
+    la que más encajaba en mis intereses. Estudíe 2 años llegando a aprobar el 80% de las materias. La crísis económica y social que estallo en Diciembre de 2001 me llevó
+    a tomar la decisión de cambiarme al sistema de educación público. En su momento opté por la UTN FRC donde tenía algunos conocidos y sabía que los contenidos eran similares.
+    Otra opción era la UNC pero para cuando había decidido cambiarme de universidad, esta ya había cerrado sus inscripciones. Por lo tanto no me quedaba otra opción que la UTN.
+    
+    Como el 2002 era un año muy especial para todos los argentinos, los profesores no eran la excepción y estaban de huelga o en asambleas la mayoría del tiempo. 
+    Entonces me sugirieron hacer el cursillo de ingreso "por las dudas" si el tramite de cambio de universidad se tardaba demasiado y así no perder el año. 
+    Si bien aprobé con tranquilidad el ingreso y estaba cursando todas las materias, eran todos contenidos que ya había visto y/o aprobado en la otra universidad, 
+    lo cual me desanimaba un poco pero seguí adelante. A mediados de ese año, obtuve la tan esperada respuesta sobre mi pase de universidad. 
+    Estaba ¡aprobado!, solo que correspondían darme por aprobadas 3 materias: inglés, dibujo técnico y álgebra.
+    Reclamé y me dijeron que debía consultar cátedra por cátedra que contenidos debía rendir para que me dieran por aprobadas las materias. 
+    Intenté nuevamente pero ante tantas complicaciones de encontrar los profesores, programas, horarios de consulta, etc. desistí. Intenté tomarme la carrera de una forma
+    relajada y seguir adelante con lo que realmente me apasionaba, la programación de sitios web. 
+    
+    Ya había leído libros sobre PHP y DHTML. Era un asiduo participante del viejo [foros del web](https://forosdelweb.com), un antecesor del actual 
+    [StackOverflow](https://stackoverflow.com). Donde aprendía y ayudaba junto a toda una enorme comunidad de programadores de habla hispana. De ahí incursioné un tiempo 
+    en el _cracking_ pero la verdad que después de romper algunos .exe y saltar las protecciones no encontraba un gran movil para seguir ese camino y la seguridad informática.
+
+    Hice algunos cursos, mientras estudiaba en la universidad, el mejor de ellos sin duda fue el curso de Reparación y actualización de PC que hice en el desaparecido instituto 
+    ECTA. Luego otro sobre administración de sistemas. El de programación de sitios web con PHP lo abandoné, mi nivel de PHP y conocimientos en desarrollos de sitios web era superior
+    al del curso y lo consideré una perdida de tiempo.
+
+    Mientras estudiaba HTML4 y CSS 1.0, intenté hacer mi propio [Download.com](https://download.com) (muy popular por aquellos años). Cuando iba por unos 150 programas en mi lista, entendí 
+    que era una tarea inmensa de mantenimiento. Agregaba un programa y debía revisar que los otros estuvieran en sus últimas versiones. 
+    En realidad necesitaba más conocimientos de PHP para poder haberlo hecho dinámico y así ofrecer un buen servicio para los desarrolladores de software de aquellos días. 
+
+    Los cimientos de mi carrera como programador de sitios y aplicaciones web estaban fundados, solo era cuestión del gran salto. Conseguir un trabajo o un proyecto para desarrollar algo.
+
+    #### Primeros pasos en el mundo profesional
+
+    En un principio allá por el año 2002 mientras estudiaba en la universidad y por mi cuenta, en todos mis tiempos libres, PHP para desarrollar sitios web.
+    Mi hermana diseñadora gráfica tenía de cliente un arquitecto, quien tenía una idea para desarrollar un directorio online pero no conocía a nadie que supiese programar.
+    Nos presentaron y así fue como conseguí mi primer proyecto web. En ese momento parecía algo imposible, no entendía como funcionaban muchas cosas 
+    pero asumí el reto. Previó acuerdo con el cliente quien estuvo de acuerdo en alargar un poco más los plazos por mi falta de experiencia. 
+    Después de 2 meses de trabajo y muchas noches sin dormir, pude liberar la primer versión de un directorio de maestrías para arquitectos que se dictaban a nivel mundial. 
+    
+    Si bien, fue un proyecto que debía funcionar en el viejo Internet Explorer 6. Este navegador tenia aproximadamente el 90% del mercado en aquel momento, pero lamentablemente
+    era un navegador con muchos problemas técnicos. Por aquellos tiempos para solucionar estas deficiencias se utilizaban tablas anidadas. Si las tablas que hoy prácticamente
+    solo se usan para mostrar datos, en aquellos años eran lo que mejor funcionaba para maquetar un diseño. Así era como después de anidar cientos de tablas podías llegar
+    a un resultado igual al diseñado por el diseñador (en aquellos años no teníamos UX/UI). Claramente comparado con las opciones de CSS que tenemos hoy en día, 
+    aquello era un autentico dolor de cabezas. Sin embargo, aquel día que subí el sitio web y el cliente lo aprobó, fue unos de los días más gratificantes de mi carrera profesional.
+   
 
 education:
-    - degree: Ingeniería en Sistemas
-      university: Universidad Tecnológica Nacional
-      link: https://www.frc.utn.edu.ar
-      time: 2002 - 2006
-      status: Incompleto
-      details: |
-        Los años que estuve aquí aprendí todo lo referente al estudio, análisis y diseño de sistemas. En su momento decidí abandonar mi carrera para seguir mi propio proyecto
-        de desarrollo de sitios y aplicaciones web, incluso abrí una agencia de diseño junto con otras 2 socias. Lamentablemente los contenidos de las materias de tecnologías
-        como programación, algoritmos, etc. estaban muy desactualizados para lo que es nuestra industria y mis intereses de su momento. _(Incompleto)_
-    - degree: Ingeniería en Sistemas
-      university: Universidad Católica de Córdoba
-      link: https://www.uccor.edu.ar
-      time: 2000 - 2001
-      status: Incompleto
-      details: |
-        Estudié 2 años en esta universidad hasta que, por cuestiones de la crísis económica del 2001, tuve que cambiarme a la universidad pública. _(Incompleto)_
+  - degree: Ingeniería en Sistemas
+    university: Universidad Tecnológica Nacional
+    link: https://www.frc.utn.edu.ar
+    time: 2002 - 2006
+    status: Incompleto
+    details: |
+      Los años que estuve aquí aprendí sobre el estudio, análisis y diseño de sistemas. En su momento decidí abandonar mi carrera para seguir mi propio proyecto
+      de desarrollo de sitios y aplicaciones web, incluso abrí una agencia de diseño junto con otras 2 socias. Lamentablemente, los contenidos de las materias de tecnologías
+      como programación, algoritmos, etc. estaban muy desactualizados para lo que es nuestra industria y mis intereses de su momento. _(Incompleto)_
+  - degree: Ingeniería en Sistemas
+    university: Universidad Católica de Córdoba
+    link: https://www.uccor.edu.ar
+    time: 2000 - 2001
+    status: Incompleto
+    details: |
+      Estudié 2 años en esta universidad hasta que, por cuestiones de la crísis económica del 2001, tuve que cambiarme a la universidad pública. _(Incompleto)_
 
 experiences:
-    - role: Senior Frontend
-      time: 2020 - Presente
-      company: Cognizant Softvision - Remoto
-      link: https://www.cognizantsoftvision.com/
-      details: |
-        Aquí estoy trabajando actualmente como desarrollador frontend con Angular. Ayudo con los code review de mi equipo y hemos levantado el code coverage con unit
-        test en un +25% en 2 meses. Organicé y agregamos algunas rutinas que se corren con Husky en los pre commit y pre push de git para chequear formato de archivos, compilación,
-        que todos los tests pasen, chequeo de lints, etc. para estandarizar algunas cuestiones.
-    - role: Senior Frontend
-      time: 2019 - 2020
-      company: Globant, Córdoba, Argentina
-      link: https://www.globant.com/
-      details: |
-        Participé de 3 proyectos como frontend de Angular. Si bien en los 2 primeros proyectos participe de forma activa no estuve hasta el final de los mismos.
-        El último proyecto relacionado con la confección de contratos fue comenzado y terminado entre 3 personas. Una experiencia única llena de retos y cientos
-        de horas para dejar un proyecto terminado y en producción. En todos los proyectos siempre participe del code review, discutiendo y estableciendo normas
-         y estándares para tener un mejor proyecto a nivel de calidad de código. ¿Lo mejor de Globant? su gente, encontré ahí compañeros de primera.
-    - role: PHP Fullstack Developer
-      time: 2002 - 2019
-      company: Freelancer
-      details: |
-        Bueno ¿que decir que no haya dicho ya? Ha sido un largo y gratificante camino, las vueltas de la vida me llevaron a dejarlo para pasarme al sector privado.
-        
+  - role: Senior Frontend
+    time: 2020 - Presente
+    company: Cognizant Softvision - Remoto
+    link: https://www.cognizantsoftvision.com/
+    details: |
+      Aquí estoy trabajando actualmente como desarrollador frontend con Angular. Ayudo con los code review de mi equipo y hemos levantado el code coverage con unit
+      test en un +25% en 2 meses. Organicé y agregamos algunas rutinas que se corren con Husky en los pre commit y pre push de git para chequear formato de archivos, compilación,
+      que todos los tests pasen, chequeo de lints, etc. para estandarizar algunas cuestiones.
+  - role: Senior Frontend
+    time: 2019 - 2020
+    company: Globant, Córdoba, Argentina
+    link: https://www.globant.com/
+    details: |
+      Participé de 3 proyectos como frontend de Angular. Si bien en los 2 primeros proyectos participe de forma activa no estuve hasta el final de los mismos.
+      El último proyecto relacionado con la confección de contratos fue comenzado y terminado entre 3 personas. Una experiencia única llena de retos y cientos
+      de horas para dejar un proyecto terminado y en producción. En todos los proyectos siempre participe del code review, discutiendo y estableciendo normas
+       y estándares para tener un mejor proyecto a nivel de calidad de código. ¿Lo mejor de Globant? su gente, encontré ahí compañeros de primera.
+  - role: PHP Fullstack Developer
+    time: 2002 - 2019
+    company: Freelancer
+    details: |
+      Bueno ¿que decir que no haya dicho ya? Ha sido un largo y gratificante camino, las vueltas de la vida me llevaron a dejarlo para pasarme al sector privado.
+
 projects:
-    title: Proyectos
-    intro: | 
-      > _¿Ideas? miles, ¿tiempo para desarrollarlas? cero._ 
+  title: Proyectos
+  intro: |
+    > _¿Ideas? miles, ¿tiempo para desarrollarlas? cero._ 
 
-      La vida del freelancer muchas veces es así... intentando desarrollar un proyecto o idea propia, con los mejor de cada uno, 
-      muchas veces nos boicoteamos y terminamos sin poder llegar a un <abbr title="Producto Mínimo Viable">MVP</abbr> por la simple razón que no esta tan bien como debería estarlo.
-      
-      Al ser así de exigente conmigo mismo mis _"grandes ideas"_ nunca salieron a la luz. Probablemente esta página sea una gran catarsis para poder seguir adelante y conseguir
-      publicar alguna de ellas.
+    La vida del freelancer muchas veces es así... intentando desarrollar un proyecto o idea propia, con los mejor de cada uno, 
+    muchas veces nos boicoteamos y terminamos sin poder llegar a un <abbr title="Producto Mínimo Viable">MVP</abbr> por la simple razón que no esta tan bien como debería estarlo.
 
-      Sin embargo siempre me gusto ayudar en proyectos open source, aquí donde colaboré:
-    assignments:
-      - title: Phalcon
-        link: https://phalcon.io
-        tagline: | 
-          Un framework para PHP distribuido como una extensión. Colaboré durante mucho tiempo siendo el traductor oficial de la documentación en español.
-          Ayude escribiendo unit tests y desarrollando algunas características menores. Por cuestiones de tiempo actualmente no estoy colaborando.
+    Al ser así de exigente conmigo mismo mis _"grandes ideas"_ nunca salieron a la luz. Probablemente esta página sea una gran catarsis para poder seguir adelante y conseguir
+    publicar alguna de ellas.
+
+    Sin embargo siempre me gusto ayudar en proyectos open source, aquí donde colaboré:
+  assignments:
+    - title: Phalcon
+      link: https://phalcon.io
+      tagline: |
+        Un framework para PHP distribuido como una extensión. Colaboré durante mucho tiempo siendo el traductor oficial de la documentación en español.
+        Ayude escribiendo unit tests y desarrollando algunas características menores. Por cuestiones de tiempo actualmente no estoy colaborando.
 
 publications:
-    title: Publicaciones
-    intro: |
-      Digamos que esta página es mi primer publicación.
-    papers:
-      # - title: The Art of Computer Programming
-      #   link: "#"
-      #   authors: Donald E. Knuth
-      #   conference: Addison-Wesley, 1968
-      
+  title: Publicaciones
+  intro: |
+    Digamos que esta página es mi primer publicación.
+  papers:
+    # - title: The Art of Computer Programming
+    #   link: "#"
+    #   authors: Donald E. Knuth
+    #   conference: Addison-Wesley, 1968
+
 skills:
-    title: Lenguajes y Tecnologías
+  title: Lenguajes y Tecnologías
 
-    toolset:
-      - name: Angular 9+
-        level: 95%
+  toolset:
+    - name: Angular 9+
+      level: 95%
 
-      - name: Javascript
-        level: 90%
+    - name: Javascript
+      level: 90%
 
-      - name: HTML5 & CSS
-        level: 95%
+    - name: HTML5 & CSS
+      level: 95%
 
-      - name: PHP 7+
-        level: 80%
+    - name: PHP 7+
+      level: 80%
 
 footer: >
-    <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Theme Xiaoying Riley</a>
+  <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Theme Xiaoying Riley</a>
