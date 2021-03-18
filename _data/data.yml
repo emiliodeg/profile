@@ -108,7 +108,7 @@ history:
     Todo esto era alucinante para mi pero no entendía como se hacían las cosas, necesitaba aprender a programar. Sino las computadoras quedaban siendo solamente una maquina 
     que respondía solo a preguntas pre establecidas. Sin embargo, el tiempo y el esfuerzo de miles de ingenieros y científicos dieron sus resultados y lograron que las computadoras
     entiendan y respondan. Quedando el [test de Turing](https://es.wikipedia.org/wiki/Prueba_de_Turing) en serios aprietos. 
-    Sin ir más lejos el nuevo modelo _GTP-3_ es en pocas palabras lo que había imaginado demasiados años antes.
+    Sin ir más lejos el nuevo modelo _GTP-3_ es, en pocas palabras, lo que había imaginado tantos años atrás.
 
     #### La universidad y mi formación autodidacta
 
@@ -136,25 +136,52 @@ history:
 
     Mientras estudiaba HTML4 y CSS 1.0, intenté hacer mi propio [Download.com](https://download.com) (muy popular por aquellos años). Cuando iba por unos 150 programas en mi lista, entendí 
     que era una tarea inmensa de mantenimiento. Agregaba un programa y debía revisar que los otros estuvieran en sus últimas versiones. 
-    En realidad necesitaba más conocimientos de PHP para poder haberlo hecho dinámico y así ofrecer un buen servicio para los desarrolladores de software de aquellos días. 
+    En realidad, necesitaba más conocimientos de PHP para poder haberlo hecho dinámico y así ofrecer un buen servicio para los desarrolladores de software de aquellos días subieran
+    sus contenidos, tal cual lo hacían en el otro. 
 
-    Los cimientos de mi carrera como programador de sitios y aplicaciones web estaban fundados, solo era cuestión del gran salto. Conseguir un trabajo o un proyecto para desarrollar algo.
+    Los cimientos de mi carrera como programador de sitios y aplicaciones web estaban fundados, solo era cuestión del gran salto. Conseguir un trabajo o un proyecto para desarrollar algo
+    en serio.
 
     #### Primeros pasos en el mundo profesional
 
-    En un principio allá por el año 2002 mientras estudiaba en la universidad y por mi cuenta, en todos mis tiempos libres, PHP para desarrollar sitios web.
-    Mi hermana diseñadora gráfica tenía de cliente un arquitecto, quien tenía una idea para desarrollar un directorio online pero no conocía a nadie que supiese programar.
+    En un principio, allá por el año 2002, mientras estudiaba en la universidad ingeniería y por mi cuenta, en mis tiempos libres, PHP para desarrollar sitios web.
+    Mi hermana que es diseñadora gráfica tenía de cliente un arquitecto, quien tenía una idea para desarrollar un directorio online pero no conocía a nadie que supiese programar.
     Nos presentaron y así fue como conseguí mi primer proyecto web. En ese momento parecía algo imposible, no entendía como funcionaban muchas cosas 
-    pero asumí el reto. Previó acuerdo con el cliente quien estuvo de acuerdo en alargar un poco más los plazos por mi falta de experiencia. 
-    Después de 2 meses de trabajo y muchas noches sin dormir, pude liberar la primer versión de un directorio de maestrías para arquitectos que se dictaban a nivel mundial. 
+    pero asumí el reto. Previó acuerdo con el cliente; quien estuvo de acuerdo en alargar un poco más los plazos por mi falta de experiencia. 
+    Después de 3 meses de trabajo y muchas noches sin dormir, pude liberar la primer versión de un directorio de maestrías para arquitectos que se dictaban a nivel mundial. 
+    Aquel día fue unos de los días más gratificantes de mi carrera profesional.
     
     Si bien, fue un proyecto que debía funcionar en el viejo Internet Explorer 6. Este navegador tenia aproximadamente el 90% del mercado en aquel momento, pero lamentablemente
-    era un navegador con muchos problemas técnicos. Por aquellos tiempos para solucionar estas deficiencias se utilizaban tablas anidadas. Si las tablas que hoy prácticamente
-    solo se usan para mostrar datos, en aquellos años eran lo que mejor funcionaba para maquetar un diseño. Así era como después de anidar cientos de tablas podías llegar
-    a un resultado igual al diseñado por el diseñador (en aquellos años no teníamos UX/UI). Claramente comparado con las opciones de CSS que tenemos hoy en día, 
-    aquello era un autentico dolor de cabezas. Sin embargo, aquel día que subí el sitio web y el cliente lo aprobó, fue unos de los días más gratificantes de mi carrera profesional.
-   
+    era un navegador con muchos problemas técnicos. Por aquellos tiempos para solucionar estas deficiencias se utilizaban tablas anidadas. Sin las tablas que hoy prácticamente
+    solo se usan para mostrar datos (para eso fueron diseñadas), en aquellos años eran lo que mejor funcionaba para maquetar un diseño. 
+    Así era como después de anidar cientos de tablas podías llegar a un resultado igual al diseñado por el diseñador (en aquellos años no teníamos UX/UI). 
+    Claramente comparado con las opciones de CSS que tenemos hoy en día, aquello era un autentico dolor de cabezas. 
+    Soy un convencido que los principios [DRY](https://es.wikipedia.org/wiki/No_te_repitas) y [KISS](https://es.wikipedia.org/wiki/Principio_KISS) son las bases de todo.
+    Osea, intentando seguir los estándares web y manteniendo el código lo más sencillo posible, las cosas deberían ir bien.
+    Así es como hará unos 3 o 4 años atrás me encontré con al carpeta de aquel primer proyecto y luego de instalar PHP5 y la base de datos MySQL, el proyecto ¡volvía a funcionar!.
+    El mayor problema era la cabecera que tenía una animación y un menú flash el cual no se mostraba por las mejoras en materia de seguridad de los navegadores actuales.
+    El resto seguía funcionando y viéndose correctamente, fue algo increíble.
 
+    Después vinieron otros proyectos que ya no recuerdo sus nombres. Terminé asociándome con mi hermana y su socia, con quienes pusimos una pequeña oficina en el garaje de una casa 
+    de barrio Cofico de nuestra ciudad. Luego de un tiempo, nos mudamos a un departamento en barrio General Paz donde íbamos a comenzar a contratar gente sobre todo programadores
+    web. En ese momento teníamos 2 o 3 meses de demora, por la cantidad de demanda, para comenzar proyectos nuevos. Con 2 diseñadoras y un programador, 
+    esta claro donde esta el cuello de botella.
+    Comencé así una búsqueda muy complicada, para el mercado profesional de la época en Córdoba. Básicamente me enfoqué en la universidad y en los clasificados.
+    Había pocos programadores web y mucho menos que hicieran PHP y muchos menos aún que lo hicieran relativamente bien. 
+    Los pocos colegas que programaban en PHP en aquellos momentos, tenían otros trabajos fijos o eran freelancers.
+    Nunca discutí un presupuesto pero si la calidad del código entregado.
+    Llegó un momento que pasaba la mitad del día, escribiendo emails para que corrigieran todos los bugs que había en el código.
+    Era muy frustrante pagar por algo así y los tiempos de entrega seguían sin mejoraban.
+
+    Pero ¿por que PHP y no .Net por ejemplo? mi política era simple, el cliente tiene que ser el dueño del resultado y ver avances muchos o pocos pero semanales. 
+    Todo esto se debía a que muchos clientes llegaban a nosotros asustados por haber tenido malas experiencias con otros programadores o agencias.
+    Lo que pasaba en aquellos años, con el boom de tener una página .com y que supuestamente era muy sencillo de hacerlas. 
+    Cualquiera agarraba un trabajo por un monto muy pequeño de dinero, y luego de 2 o 3 semanas se daban cuenta que el presupuesto se había agotado y todavía quedaba mucho por hacer.
+    Entonces el que pagaba los platos rotos era el cliente.
+    Nuestra propuesta era que el cliente debía ser dueño de todo: código, hosting, imágenes, etc. 
+    Vendíamos el servicio de programar y diseñar un sitio web, no el código en si mismo.
+    Al final las vueltas de la vida personal de cada uno de los socios llevo a que nos separáramos y el proyecto quedo trunco.
+   
 education:
   - degree: Ingeniería en Sistemas
     university: Universidad Tecnológica Nacional
