@@ -210,6 +210,13 @@ history:
     Al final de un largo día, semana, mes... ya no puedes trabajar sin ellas.
     
     > NOTA: nunca desarrolles sin escribir al menos algunas pruebas unitarias cruciales y usa siempre un analizador de código estático para el lenguaje que estés utilizando.
+
+    Algunos grandes sistemas vinieron luego, gestores de salones infantiles, negocios de cartelería, concursos de arquitectura incluso una plataforma completa de elearning.
+    Han sido mucho años, clientes y proyectos. 
+    Creo que lo que siempre me mantuvo en el camino correcto es ser honesto y entregar un buen producto final, incluso mejor del presupuestado.
+
+    ###### Cat tax 😸
+    <img src="/assets/images/mona.jpg" width="500" height="282" class="img-responsive" alt="Mona cat tax">
    
 education:
   - degree: Ingeniería en Sistemas
@@ -292,17 +299,17 @@ skills:
     - name: Javascript
       level: 90
 
-    - name: HTML5
-      level: 95
-    
-    - name: CSS & SASS
-      level: 85
-
     - name: PHP 7+
       level: 80
 
     - name: MySQL / MariaDB
       level: 80
+
+    - name: HTML5
+      level: 95
+    
+    - name: CSS & SASS
+      level: 85
 
 footer: >
   <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Theme Xiaoying Riley</a>
