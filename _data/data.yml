@@ -74,7 +74,7 @@ history:
     En lo consecutivo explicaré como fueron mis primeros años, formación en la universidad y de forma autodidacta y así, espero, puedan puedan entender lo que se transita 
     en este estilo de vida profesional. 
 
-    #### Primeros años y la inocencia de un mundo desconocido
+    ### Primeros años y la inocencia de un mundo desconocido
 
     Mis primeros años fueron muy interesantes desde mi punto de vista actual. Consideren que en aquellos primeros años las conexiones a internet eran, al menos en mi caso,
     por dial up a 56kbps, conectándonos a la ciudad vecina. Por supuesto, que las páginas webs no eran tan pesadas como lo son hoy, solo pesaba un par de KBs. 
@@ -110,7 +110,7 @@ history:
     entiendan y respondan. Quedando el [test de Turing](https://es.wikipedia.org/wiki/Prueba_de_Turing) en serios aprietos. 
     Sin ir más lejos el nuevo modelo _GTP-3_ es, en pocas palabras, lo que había imaginado tantos años atrás.
 
-    #### La universidad y mi formación autodidacta
+    ### La universidad y mi formación autodidacta
 
     En el año 2000, me mudé a Córdoba capital donde comencé [mis estudios universitarios](#educacion) en la UCC. Elegí la carrera de ingeniería en sistemas la cual era
     la que más encajaba en mis intereses. Estudíe 2 años llegando a aprobar el 80% de las materias. La crísis económica y social que estallo en Diciembre de 2001 me llevó
@@ -142,7 +142,7 @@ history:
     Los cimientos de mi carrera como programador de sitios y aplicaciones web estaban fundados, solo era cuestión del gran salto. Conseguir un trabajo o un proyecto para desarrollar algo
     en serio.
 
-    #### Primeros pasos en el mundo profesional
+    ### Primeros pasos en el mundo profesional
 
     En un principio, allá por el año 2002, mientras estudiaba en la universidad ingeniería y por mi cuenta, en mis tiempos libres, PHP para desarrollar sitios web.
     Mi hermana que es diseñadora gráfica tenía de cliente un arquitecto, quien tenía una idea para desarrollar un directorio online pero no conocía a nadie que supiese programar.
@@ -181,6 +181,35 @@ history:
     Nuestra propuesta era que el cliente debía ser dueño de todo: código, hosting, imágenes, etc. 
     Vendíamos el servicio de programar y diseñar un sitio web, no el código en si mismo.
     Al final las vueltas de la vida personal de cada uno de los socios llevo a que nos separáramos y el proyecto quedo trunco.
+
+    ### Mi experiencia freelance
+
+    De vuelta trabajando desde mi casa y habiendo cerrado la oficina, vendido los muebles, dados de bajas los servicios, alquiler, etc había que volver a empezar.
+    Cada uno se quedo con los clientes que había conseguido en su momento y algunos se fueron con otras agencias y otros nos siguieron eligiendo. 
+    Si bien tenía algunos clientes, solo escuchaba historias de colegas que les iba muy bien trabajando para otros países como España.
+    Comencé una búsqueda de proyectos que pudiera desarrollar como freelancer y el cliente pagara por PayPal lo más conocido por aquellos años y la única plataforma con algún
+    soporte a través de un tercero para traer la plata hasta Argentina.
+    Así fue como conocí a una agencia en Madrid quien me contrató para un primer proyecto y luego otro y otro.
+    Si bien no era una gran diferencia de plata ya que se perdía casi un 35% entre lo cobrado al cliente, mas impuestos, mas comisiones por las transferencias.
+    El cambio más grande era la cantidad de horas trabajadas, por aquellos años trabajaba al menos 14hs diarias. Tenía insomnio, sobrepeso por falta de ejercicio, pero el bruxismo
+    fue el que me llevo a tomar la decisión de dejar ese trabajo. 
+    El cliente insistía en vender sitios baratos que debían ser desarrollados en la mitad del tiempo que me llevaban hacerlos, trabajando una jornada normal, por eso la cantidad
+    de horas extra que tenía que trabajar.
+
+    Una vez terminados todos los proyectos con el cliente español, me volví a enfocar en el mercado local. 
+    Conseguí varios clientes y proyectos fácilmente ya que tenía un amplio porfolio para mostrar con sitios bien terminados y que funcionaban de maravilla.
+    Si bien llevaba algunos clientes, pagínas web y proyectos sencillos, los que me gustaban eran los desafiantes, los sistemas grandes.
+    Había hecho cursos para aprender _Zend Framework_, y había desistido en mi propio framework ¿para que reinventar la rueda?. 
+    Lo había escuchado tantas veces pero sin embargo, muchas veces, esta bueno reinventarla a tu forma, no para demostrar nada, sino por el simple hecho de _"yo también puedo"_.
+    Al final como había tantos proyectos enormes que estaban mil veces más testeados que mi pequeño framework personal, lo abandoné y comencé una nueva etapa del perfeccionamiento. 
+
+    Comencé a utilizar herramientas novedosas como _Zend framework, Doctrine, Composer_, etc. 
+    Era un mundo nuevo e inmenso para aprender, apabullante si quieres, pero paso a paso, día a día las cosas se van simplificando y vas madurando como un mejor programador.
+    Incluso comencé con _PHPUnit_ para escribir mis propios tests y un analizador de código estático como _PHP_CodeSniffer_.
+    Todas estas herramientas muy bonitas y productivas también hacen que el avance en el desarrollo de una aplicación sea más lento pero mucho más robusto.
+    Al final de un largo día, semana, mes... ya no puedes trabajar sin ellas.
+    
+    > NOTA: nunca desarrolles sin escribir al menos algunas pruebas unitarias cruciales y usa siempre un analizador de código estático para el lenguaje que estés utilizando.
    
 education:
   - degree: Ingeniería en Sistemas
@@ -258,16 +287,22 @@ skills:
 
   toolset:
     - name: Angular 9+
-      level: 95%
+      level: 95
 
     - name: Javascript
-      level: 90%
+      level: 90
 
-    - name: HTML5 & CSS
-      level: 95%
+    - name: HTML5
+      level: 95
+    
+    - name: CSS & SASS
+      level: 85
 
     - name: PHP 7+
-      level: 80%
+      level: 80
+
+    - name: MySQL / MariaDB
+      level: 80
 
 footer: >
   <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Theme Xiaoying Riley</a>

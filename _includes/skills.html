@@ -17,15 +17,16 @@
 
       <h3 class="level-title">{{ skill.name }}</h3>
 
-      <div class="level-bar">
-        <div class="level-bar-inner" data-level="{{ skill.level }}">
+      <div class="progress">
+        <div class="progress-bar" role="progressbar" aria-valuenow="{{ skill.level }}" aria-valuemin="0" aria-valuemax="100" style="width: {{ skill.level }}%">
+          {{ skill.level }}%
         </div>
-      </div><!--//level-bar-->
+      </div>
 
-    </div><!--//item-->
+    </div>
     {% endfor %}
 
   </div>
 
-</section><!--//skills-section-->
+</section>
 {% endif %}
