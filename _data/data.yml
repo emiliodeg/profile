@@ -209,7 +209,9 @@ history:
     Todas estas herramientas muy bonitas y productivas también hacen que el avance en el desarrollo de una aplicación sea más lento pero mucho más robusto.
     Al final de un largo día, semana, mes... ya no puedes trabajar sin ellas.
     
-    > NOTA: nunca desarrolles sin escribir al menos algunas pruebas unitarias cruciales y usa siempre un analizador de código estático para el lenguaje que estés utilizando.
+    <blockquote class="blockquote">
+      <p>NOTA: nunca desarrolles sin escribir al menos algunas pruebas unitarias cruciales y usa siempre un analizador de código estático para el lenguaje que estés utilizando.</p>
+    </blockquote>
 
     Algunos grandes sistemas vinieron luego, gestores de salones infantiles, negocios de cartelería, concursos de arquitectura incluso una plataforma completa de elearning.
     Han sido mucho años, clientes y proyectos. 
@@ -284,7 +286,9 @@ experiences:
 projects:
   title: Proyectos
   intro: |
-    > _¿Ideas? miles, ¿tiempo para desarrollarlas? cero._ 
+    <blockquote class="blockquote">
+      <p>¿Ideas? miles, ¿tiempo para desarrollarlas? cero.</p>
+    </blockquote>
 
     La vida del freelancer muchas veces es así... intentando desarrollar un proyecto o idea propia, con los mejor de cada uno, 
     muchas veces nos boicoteamos y terminamos sin poder llegar a un <abbr title="Producto Mínimo Viable">MVP</abbr> por la simple razón que no esta tan bien como debería estarlo.
